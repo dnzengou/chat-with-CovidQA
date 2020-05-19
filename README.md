@@ -65,7 +65,7 @@ python chatbot.py
 ```
 
 ### Data & other sources
-![CovidQA on CORD-19](https://raw.githubusercontent.com/castorini/pygaggle/master/data/kaggle-lit-review-0.1.json)
-![Rapidly Bootstrapping a Question Answering Dataset for COVID-19: Here](https://cord-19.apps.allenai.org/?q=dataset&o=0&sz=10)
-![and here](https://www.semanticscholar.org/paper/Rapidly-Bootstrapping-a-Question-Answering-Dataset-Tang-Nogueira/0f995b05821b58b02e914422b56fba615d0e8d7f)
-![Allen Institute for AI- Kaggle challenge for COVID-19 NLP](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+![CovidQA on CORD-19](https://raw.githubusercontent.com/castorini/pygaggle/master/data/kaggle-lit-review-0.1.json) <br>
+![Rapidly Bootstrapping a Question Answering Dataset for COVID-19: Here](https://cord-19.apps.allenai.org/?q=dataset&o=0&sz=10) </br>
+![and here](https://www.semanticscholar.org/paper/Rapidly-Bootstrapping-a-Question-Answering-Dataset-Tang-Nogueira/0f995b05821b58b02e914422b56fba615d0e8d7f) <br>
+![Allen Institute for AI- Kaggle challenge for COVID-19 NLP](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) </br>
