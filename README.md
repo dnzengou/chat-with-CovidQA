@@ -51,7 +51,7 @@ nltk.download('wordnet')
 ```
 
 ## How to run
-* Jupyter Notebook ![Binder](https://mybinder.org/v2/gh/dnzengou/chat-with-CovidQA/master?urlpath=https%3A%2F%2Fgithub.com%2Fdnzengou%2Fchat-with-CovidQA%2Fblob%2Fmaster%2FChat-with-CovidQA.ipynb)
+* Jupyter Notebook [Binder](https://mybinder.org/v2/gh/dnzengou/chat-with-CovidQA/master?urlpath=https%3A%2F%2Fgithub.com%2Fdnzengou%2Fchat-with-CovidQA%2Fblob%2Fmaster%2FChat-with-CovidQA.ipynb)
 ```
 https://hub.gke.mybinder.org/user/dnzengou-buildi-thon-using-nltk-iilsjoko/https://github.com/dnzengou/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb
 
